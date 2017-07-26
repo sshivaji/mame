@@ -35,5 +35,23 @@ topgunnr        // (c) 1986
 
 looping         // (c) 1982 Video Games GMBH
 supertnk        // (c) 1981 VIDEO GAMES GmbH, W.-GERMANY
-
 wrally          // (c) 1993 - Ref 930705
+
+@source:glasgow.cpp
+amsterd                         // Amsterdam
+dallas                          // Dallas
+dallas16                        // Dallas
+dallas32                        // Dallas
+glasgow                         // Glasgow
+roma                            // Roma
+roma32                          // Roma
+
+@source:mephisto.cpp
+mm2                             // Mephisto 2
+mm4                             // Mephisto 4
+mm4tk                           // Mephisto 4 Turbo Kit
+mm5                             // Mephisto 5.1 ROM
+mm50                            // Mephisto 5.0 ROM
+mm5tk                           // Mephisto 5.1 ROM Turbo Kit Speed
+rebel5                          // Mephisto 5
+

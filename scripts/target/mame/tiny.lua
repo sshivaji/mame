@@ -44,6 +44,7 @@ SOUNDS["YM3812"] = true
 SOUNDS["CEM3394"] = true
 SOUNDS["VOTRAX"] = true
 SOUNDS["VOLT_REG"] = true
+SOUNDS["BEEP"] = true
 
 --------------------------------------------------
 -- specify available video cores
@@ -98,6 +99,8 @@ function createProjects_mame_tiny(_target, _subtarget)
 	}
 
 files{
+	MAME_DIR .. "src/mame/drivers/mephisto.cpp",
+	MAME_DIR .. "src/mame/drivers/glasgow.cpp",
 	MAME_DIR .. "src/mame/machine/ticket.cpp",
 	MAME_DIR .. "src/mame/machine/ticket.h",
 	MAME_DIR .. "src/mame/drivers/carpolo.cpp",
